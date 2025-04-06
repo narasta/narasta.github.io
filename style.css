@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+/* 背景の色 */
+body {
+    background-color: rgb(255, 243, 220);
+}
+
+/* 中央揃え。幅は800px */
+.center {
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* お申し込み・無料相談はこちら */
+h2 {
+    font-size: 40px;
+    font-family: "ヒラギノ角ゴシック", "Yu Gothic UI", sans-serif;
+}
+
+/* お子様の家庭教師〜聞いています */
+.onayami {
+    font-size: 30px;
+    font-family: "ヒラギノ角ゴシック", "Yu Gothic UI", sans-serif;
+    line-height: 45px;
+}
+
+/* ナラスタなら一斉解決 */
+.kaiketu {
+    font-size: 40px;
+    font-family: "ヒラギノ角ゴシック", "Yu Gothic UI", sans-serif;
+    line-height: 55px;
+}
